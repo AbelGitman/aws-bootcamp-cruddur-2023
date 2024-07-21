@@ -1,9 +1,9 @@
 {
     "BudgetLimit": {
-        "Amount": "20",
+        "Amount": "25",
         "Unit": "USD"
     },
-    "BudgetName": "20 USB via CLI",
+    "BudgetName": "25 USB via CLI",
     "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
